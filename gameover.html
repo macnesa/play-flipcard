@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="assets/gameover.css" />
+  </head>
+  <body>
+    <audio src="assets\sounds\pluit.mp3" muted id="pluitSound" preload="auto"></audio>
+    <div class="bgContainer">
+      <img src="assets/page/Landing Page/Background.png" alt="" />
+    </div>
+    <section class="sec_gameOver">
+      <img src="assets/page/Game Over Page/Gambar Kalah.png" alt="" />
+
+      <p>Game Over..</p>
+
+      <div class="score">
+        <table>
+          <tr>
+            <td>Total Flip</td>
+            <td class="totalFlip">120</td>
+          </tr>
+          <tr>
+            <td>Total Match</td>
+            <td class="totalMatch">120</td>
+          </tr>
+          <tr>
+            <td>Total Waktu</td>
+            <td class="totalWaktu">120</td>
+          </tr>
+          <tr style="color: black">
+            <td>Skor Anda</td>
+            <td class="totalScore">120</td>
+          </tr>
+        </table>
+      </div>
+      
+      <div class="container">
+        <a onclick="mulaiUlang()">Mulai Lagi</a>
+        <a href="index.html">Kembali Ke Main Menu</a>
+      </div>
+      
+    </section>
+
+    <script>
+    
+      queryArr = location.search.substring(1).split("|");
+      console.log(queryArr[queryArr.length - 1]);
+      let mulaiUlang = () => {
+        window.location.href = `6x6.html?${queryArr[queryArr.length - 1]}`;
+      };
+      document.querySelector(".totalFlip").innerHTML = queryArr[0];
+      document.querySelector(".totalMatch").innerHTML = queryArr[1];
+      document.querySelector(".totalWaktu").innerHTML = queryArr[2];
+      document.querySelector(".totalScore").innerHTML = queryArr[3];
+
+      
+
+    </script>
+  </body>
+</html>

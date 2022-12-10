@@ -1,0 +1,371 @@
+[33mcommit b325d18e0a25da913b9714f502b54e2413d0deca[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/mac[m[33m, [m[1;32mmaster[m[33m)[m
+Author: mmacnesa <mmacnesa@gmail.com>
+Date:   Sat Dec 10 13:44:50 2022 +0700
+
+    final design by mac
+
+[33mcommit 9157c893c1edee9ff56c52b2a1ea368675317541[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: mmacnesa <mmacnesa@gmail.com>
+Date:   Fri Dec 9 08:46:13 2022 +0700
+
+    final design
+
+[33mcommit 65339396e9dbb0494bb349f18e7df719e079056b[m
+Merge: c311dde 6a9cac8
+Author: iliasoulddahi <iliasoulddahi@gmail.com>
+Date:   Fri Dec 9 01:09:20 2022 +0700
+
+    merging moga berhasil
+
+[33mcommit 6a9cac8c3b7b1d1a4787cfb6a1e2b8d242aa1da1[m[33m ([m[1;31morigin/iliasoulddahi[m[33m)[m
+Author: iliasoulddahi <iliasoulddahi@gmail.com>
+Date:   Fri Dec 9 01:03:16 2022 +0700
+
+    Update result.html
+
+[33mcommit 061a29400f4e824b224bf9a4f807206afcca65a4[m
+Merge: 72f6cb9 5d3a74b
+Author: iliasoulddahi <iliasoulddahi@gmail.com>
+Date:   Fri Dec 9 01:03:08 2022 +0700
+
+    Merge branch 'iliasoulddahi' of https://github.com/iliasoulddahi/memory-game into iliasoulddahi
+
+[33mcommit 5d3a74b6fbcbf0ad924c83b53043c9b7fa4770c0[m
+Author: mmacnesa <mmacnesa@gmail.com>
+Date:   Fri Dec 9 00:55:04 2022 +0700
+
+    malam
+
+[33mcommit 72f6cb9053397f65767bedaa891f7c180d47a69e[m
+Author: iliasoulddahi <iliasoulddahi@gmail.com>
+Date:   Fri Dec 9 00:54:03 2022 +0700
+
+    ok
+
+[33mcommit c311dde969f8b6a3b8065b6bc2ba5b6407980083[m
+Author: ilias ould dahi <65334020+iliasoulddahi@users.noreply.github.com>
+Date:   Fri Dec 9 00:53:23 2022 +0700
+
+    Delete index.html
+
+[33mcommit c4c727c66a4ba235ac41aaecdde665085483ab32[m
+Author: ilias ould dahi <65334020+iliasoulddahi@users.noreply.github.com>
+Date:   Fri Dec 9 00:50:24 2022 +0700
+
+    Delete game.js
+
+[33mcommit 383855b468eb172622189cf5fe106b6a0b47a1eb[m
+Merge: 988918a 78e644c
+Author: mmacnesa <mmacnesa@gmail.com>
+Date:   Fri Dec 9 00:16:51 2022 +0700
+
+    Merge branch 'iliasoulddahi' of https://github.com/iliasoulddahi/memory-game into iliasoulddahi
+
+[33mcommit 988918a7f18d9cff16383d934be13d737757b1c8[m
+Author: mmacnesa <mmacnesa@gmail.com>
+Date:   Fri Dec 9 00:16:40 2022 +0700
+
+    terserahaja
+
+[33mcommit 78e644c05119663468d8df918cf2e00479003639[m
+Merge: 27f851d 9e64962
+Author: iliasoulddahi <iliasoulddahi@gmail.com>
+Date:   Fri Dec 9 00:13:49 2022 +0700
+
+    Merge branch 'iliasoulddahi' of https://github.com/iliasoulddahi/memory-game into iliasoulddahi
+
+[33mcommit 27f851dd3b2d1b6dec17748613f78fa7d9d0a6ac[m
+Author: iliasoulddahi <iliasoulddahi@gmail.com>
+Date:   Fri Dec 9 00:12:54 2022 +0700
+
+    LOGIC SELESAI
+
+[33mcommit 9e6496210e1ee20f0a72fc25d39b3e46d385d878[m
+Author: m-erisman <111693143+m-erisman@users.noreply.github.com>
+Date:   Fri Dec 9 00:01:18 2022 +0700
+
+    Add files via upload
+
+[33mcommit f5f7e6c02191181da5eaed36d10a4c9e0254bcc6[m
+Merge: 3bf896f b2b8cd3
+Author: iliasoulddahi <iliasoulddahi@gmail.com>
+Date:   Thu Dec 8 22:43:16 2022 +0700
+
+    Merge branch 'iliasoulddahi' of https://github.com/iliasoulddahi/memory-game into iliasoulddahi
+
+[33mcommit 3bf896f2c7f46302df2f1a409b60ce56b226cbc7[m
+Author: iliasoulddahi <iliasoulddahi@gmail.com>
+Date:   Thu Dec 8 22:42:50 2022 +0700
+
+    Update game.js
+
+[33mcommit b2b8cd3604b1ac1c535b5ce25e761a896d5b2991[m
+Author: m-erisman <111693143+m-erisman@users.noreply.github.com>
+Date:   Thu Dec 8 22:22:15 2022 +0700
+
+    Add files via upload
+
+[33mcommit 96afc4fddf332f11c771cc9dcff4a0464075eafa[m
+Author: iliasoulddahi <iliasoulddahi@gmail.com>
+Date:   Thu Dec 8 21:39:37 2022 +0700
+
+    next
+
+[33mcommit 0ec4f9360dfe069fd426394910ad9b564d1c1ed2[m
+Author: iliasoulddahi <iliasoulddahi@gmail.com>
+Date:   Thu Dec 8 21:31:17 2022 +0700
+
+    skoring setelah selesai
+
+[33mcommit 4b96a236595441916053038a2baae1145282bd0a[m
+Author: iliasoulddahi <iliasoulddahi@gmail.com>
+Date:   Thu Dec 8 19:18:09 2022 +0700
+
+    hampir selesai
+
+[33mcommit 449dd74ccb448c4930007ba3eb4391118371bc87[m
+Author: m-erisman <111693143+m-erisman@users.noreply.github.com>
+Date:   Thu Dec 8 18:18:41 2022 +0700
+
+    Add files via upload
+
+[33mcommit fd6ef389349cecc754f41c6f58736c5206dde572[m
+Author: m-erisman <111693143+m-erisman@users.noreply.github.com>
+Date:   Thu Dec 8 18:18:17 2022 +0700
+
+    Delete Result Page.psd
+
+[33mcommit f9aa8692b0f5fb676a3ce0d04b43d7e5c0f20d5c[m
+Author: m-erisman <111693143+m-erisman@users.noreply.github.com>
+Date:   Thu Dec 8 18:18:04 2022 +0700
+
+    Delete Result Page.png
+
+[33mcommit 5a7865988cc7ef7d3d5a7ea4ac8e165d52cf6295[m
+Author: m-erisman <111693143+m-erisman@users.noreply.github.com>
+Date:   Thu Dec 8 18:16:07 2022 +0700
+
+    Add files via upload
+
+[33mcommit 74e0aa90bb8d6fc188f7b28705d1f9f79da4100b[m
+Author: m-erisman <111693143+m-erisman@users.noreply.github.com>
+Date:   Thu Dec 8 18:15:46 2022 +0700
+
+    Delete icon lvl4.png
+
+[33mcommit eec05e81c4b9c75259beb17908563fe2e26fb3ab[m
+Author: m-erisman <111693143+m-erisman@users.noreply.github.com>
+Date:   Thu Dec 8 18:15:39 2022 +0700
+
+    Delete icon lvl3.png
+
+[33mcommit a7e1cdcb10d02033dfae4b3343151be2a916a780[m
+Author: m-erisman <111693143+m-erisman@users.noreply.github.com>
+Date:   Thu Dec 8 18:15:30 2022 +0700
+
+    Delete icon lvl2.png
+
+[33mcommit 68738f39c011b8a6566c1f790ac26c2cea931493[m
+Author: m-erisman <111693143+m-erisman@users.noreply.github.com>
+Date:   Thu Dec 8 18:15:19 2022 +0700
+
+    Delete icon lvl1.png
+
+[33mcommit 625d2cd65d22e7c9f43dee6d3f7ae1495393d5a1[m
+Author: macnesa <118110920+macnesa@users.noreply.github.com>
+Date:   Thu Dec 8 17:00:21 2022 +0700
+
+    Add files via upload
+
+[33mcommit a8979e61148b339be754041990bcae43035541ac[m
+Author: macnesa <118110920+macnesa@users.noreply.github.com>
+Date:   Thu Dec 8 16:59:38 2022 +0700
+
+    Add files via upload
+
+[33mcommit ee02e69213dd4eaa9a9688542cb4bcbe7b1c303f[m
+Author: macnesa <118110920+macnesa@users.noreply.github.com>
+Date:   Thu Dec 8 16:57:56 2022 +0700
+
+    Add files via upload
+
+[33mcommit 843079324720b36cfb8d32658a313a7cd8415ec2[m
+Author: macnesa <118110920+macnesa@users.noreply.github.com>
+Date:   Thu Dec 8 16:57:18 2022 +0700
+
+    Delete landing_style.css
+
+[33mcommit c37726e16b067fddcef09419746450052e7f6ac2[m
+Author: macnesa <118110920+macnesa@users.noreply.github.com>
+Date:   Thu Dec 8 16:56:42 2022 +0700
+
+    Add files via upload
+
+[33mcommit f63e59e9c1c1b3580ea9a976f1b873954e8cb3a9[m
+Author: macnesa <118110920+macnesa@users.noreply.github.com>
+Date:   Thu Dec 8 16:55:40 2022 +0700
+
+    Delete landingpage.html
+
+[33mcommit c77c949f17c24351a6d138c64f3166e85aae7697[m
+Author: iliasoulddahi <iliasoulddahi@gmail.com>
+Date:   Thu Dec 8 16:15:13 2022 +0700
+
+    flipcount & matchCount
+
+[33mcommit 279610b67cbf145464e91eb3098cba78aedc1afe[m[33m ([m[1;32mmacnesa[m[33m)[m
+Author: iliasoulddahi <iliasoulddahi@gmail.com>
+Date:   Thu Dec 8 15:39:44 2022 +0700
+
+    game logic done part1
+
+[33mcommit 08115459bf877e4081b7f1b168cf2feee2326648[m
+Author: m-erisman <111693143+m-erisman@users.noreply.github.com>
+Date:   Thu Dec 8 15:25:29 2022 +0700
+
+    Add files via upload
+
+[33mcommit fccb5dde5f1d76adbd08773f25bb0bbdf6de6454[m
+Author: mmacnesa <mmacnesa@gmail.com>
+Date:   Wed Dec 7 19:22:01 2022 +0700
+
+    update malam
+
+[33mcommit dd444737c6b550b2530dc6422337f8bd4efe7647[m
+Author: iliasoulddahi <iliasoulddahi@gmail.com>
+Date:   Wed Dec 7 18:50:36 2022 +0700
+
+    TIMER
+
+[33mcommit bd510e56866eb3e8c114bd6d280a0a23aef4b597[m
+Author: mmacnesa <mmacnesa@gmail.com>
+Date:   Wed Dec 7 18:34:39 2022 +0700
+
+    updataMagrib
+
+[33mcommit ac42e81066dc2e049fc40a8ef3cac23426e9b9ae[m
+Author: m-erisman <111693143+m-erisman@users.noreply.github.com>
+Date:   Wed Dec 7 18:34:19 2022 +0700
+
+    Add files via upload
+
+[33mcommit 12f56bcd4963f9df5d50cd17e3d024b10ccaa865[m
+Author: m-erisman <111693143+m-erisman@users.noreply.github.com>
+Date:   Wed Dec 7 18:30:55 2022 +0700
+
+    Add files via upload
+
+[33mcommit bddea6f0985f0c61cb171d17982dc6017fa8c04b[m
+Author: m-erisman <111693143+m-erisman@users.noreply.github.com>
+Date:   Wed Dec 7 18:30:28 2022 +0700
+
+    Delete background.png
+
+[33mcommit 6e940c8e6c5b540c4e41b6cc68853291f6740336[m
+Author: m-erisman <111693143+m-erisman@users.noreply.github.com>
+Date:   Wed Dec 7 18:26:08 2022 +0700
+
+    Add files via upload
+
+[33mcommit 8b262359f8d5b807180abcc7f76e229fb922b3e3[m
+Author: m-erisman <111693143+m-erisman@users.noreply.github.com>
+Date:   Wed Dec 7 18:21:24 2022 +0700
+
+    Add files via upload
+
+[33mcommit 2b73fe476633875fac24ecdd5efa33ebd2e7755d[m
+Author: m-erisman <111693143+m-erisman@users.noreply.github.com>
+Date:   Wed Dec 7 18:19:26 2022 +0700
+
+    Add files via upload
+
+[33mcommit 1dba1ed2c7ca21d1a71657f3fa41366b90a01564[m
+Author: m-erisman <111693143+m-erisman@users.noreply.github.com>
+Date:   Wed Dec 7 18:12:32 2022 +0700
+
+    Add files via upload
+
+[33mcommit 1d351522540bb6331b124fa194ffd218a7659b01[m
+Author: m-erisman <111693143+m-erisman@users.noreply.github.com>
+Date:   Wed Dec 7 16:30:20 2022 +0700
+
+    Add files via upload
+
+[33mcommit bf245e5235d783bb96fc89f75acbd906492d5b52[m
+Merge: 8be2fb0 eff0deb
+Author: iliasoulddahi <iliasoulddahi@gmail.com>
+Date:   Wed Dec 7 16:15:52 2022 +0700
+
+    merelease box ke box groub, melakukan pengecekan, menambah event ke groub
+
+[33mcommit 8be2fb0cd28ea485672fcb9d080bbbfe3eb01cf0[m
+Author: iliasoulddahi <iliasoulddahi@gmail.com>
+Date:   Wed Dec 7 16:13:13 2022 +0700
+
+    merelease box ke box groub, melakukan pengecekan, menambah event ke groub
+
+[33mcommit eff0deb7b2ab514b0d65d1065ec3525cf4c4b809[m
+Author: m-erisman <111693143+m-erisman@users.noreply.github.com>
+Date:   Wed Dec 7 15:27:43 2022 +0700
+
+    Add files via upload
+
+[33mcommit 0ca1e112e6df87240d129fac7ef979c465d04c69[m
+Author: m-erisman <111693143+m-erisman@users.noreply.github.com>
+Date:   Wed Dec 7 15:24:25 2022 +0700
+
+    Add files via upload
+
+[33mcommit 511932a8869b927ccc291a5258ca1c7e758a61d2[m
+Author: m-erisman <111693143+m-erisman@users.noreply.github.com>
+Date:   Wed Dec 7 15:23:22 2022 +0700
+
+    Add files via upload
+
+[33mcommit b5f8263fe72da7b5c8e78dcbec09b00c9c58f442[m
+Author: m-erisman <111693143+m-erisman@users.noreply.github.com>
+Date:   Wed Dec 7 15:22:53 2022 +0700
+
+    Delete icon tanda tanya.png
+
+[33mcommit d23495149c78a8a92073891e978f5f1408510af3[m
+Author: m-erisman <111693143+m-erisman@users.noreply.github.com>
+Date:   Wed Dec 7 14:54:38 2022 +0700
+
+    Add files via upload
+
+[33mcommit c9e384039ee94d44ef5b2153846542cf497549ad[m
+Author: m-erisman <111693143+m-erisman@users.noreply.github.com>
+Date:   Wed Dec 7 14:52:22 2022 +0700
+
+    Add files via upload
+
+[33mcommit 7d786d35f67c2e8f7a0d9763cdd87faaf2269b4d[m
+Author: m-erisman <111693143+m-erisman@users.noreply.github.com>
+Date:   Wed Dec 7 14:47:04 2022 +0700
+
+    Add files via upload
+
+[33mcommit 4ec9b39a7482fd35f5d9b25c72ac56d10265a422[m
+Author: iliasoulddahi <iliasoulddahi@gmail.com>
+Date:   Wed Dec 7 06:21:08 2022 +0700
+
+    update-readme
+
+[33mcommit cdeb75d5493f6bdd0008b504e0c117f5a075f498[m
+Author: iliasoulddahi <iliasoulddahi@gmail.com>
+Date:   Wed Dec 7 06:16:14 2022 +0700
+
+    update-readme
+
+[33mcommit 91082614b2297466eaf2145b7363ada1c3f60f7c[m
+Author: iliasoulddahi <iliasoulddahi@gmail.com>
+Date:   Wed Dec 7 06:09:42 2022 +0700
+
+    --
+
+[33mcommit 25b0aa3a882f4a9781384dfe12cf513fdb1b4609[m
+Author: iliasoulddahi <iliasoulddahi@gmail.com>
+Date:   Tue Dec 6 20:45:47 2022 +0700
+
+    GG.JS DI MULAI

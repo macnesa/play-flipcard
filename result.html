@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <link rel="stylesheet" href="assets/result.css">
+</head>
+<body>
+  <div class="bgContainer">
+    <img src="assets/page/Landing Page/Background.png" alt="">
+  </div>
+  <section class="sec_gameOver">
+    <div>
+      <p>Congrats!!</p>
+    </div>
+    
+    <img src="assets/page/Result Page/trophy gold.png" alt="">
+
+    <div class="score">
+      <table>
+        <th>Level 1 Selesai</th>
+        <tr>
+          <td>Total Flip</td>
+          <td class="totalFlip">120</td>
+        </tr>
+        <tr>
+          <td>Total Match</td>
+          <td class="totalMatch">120</td>
+        </tr>
+        <tr>
+          <td>Total Waktu</td>
+          <td class="totalWaktu">120</td>
+        </tr>
+        <tr style="color: black;">
+          <td>Skor Anda</td>
+          <td class="totalScore">120</td>
+        </tr>
+      </table>
+    </div>
+    <div>
+      <a onclick="goToNextLevel()" class="levelSelanjutnya">Main Level Selanjutnya</a>
+      <a href="index.html">Kembali Ke Main Menu</a>
+  
+    </div>
+  </section>
+
+  
+    <script>
+        queryArr = location.search.substring(1).split('|')
+        console.log(queryArr)
+        
+        document.querySelector('.totalFlip').innerHTML = queryArr[0] 
+        document.querySelector('.totalMatch').innerHTML = queryArr[1]
+        document.querySelector('.totalWaktu').innerHTML = queryArr[2]
+        document.querySelector('.totalScore').innerHTML = queryArr[3]
+        if(queryArr[4] < 5){
+          const next = document.querySelector('.levelSelanjutnya')
+          next.innerHTML = 'All Level Selesai'
+          next.onclick = ""
+        }
+        const nextLevel = queryArr[4]/2
+        function goToNextLevel(){
+          window.location.replace('6x6.html?'+nextLevel)
+        } 
+        
+    </script>
+</body>
+</html>
+
+
+

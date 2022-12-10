@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="assets/style.css" /> 
+    <title>Game Memory</title> 
+  </head>
+  <body>
+    <div class="bgContainer">
+      <img src="assets/page/Landing Page/Background.png" alt="">
+    </div>
+    <div class="container">
+    <audio src="assets\sound and bgm\sound effect klik kedua.mp3" id="clickEffect" style="display: none;"></audio>
+    <audio src="assets\sounds\suara_tetris_match.mp3" id="matchEffect" style="display: none;"></audio>
+    <main>
+      <p id="timer"></p>
+    </main>
+    <section id="main">
+      <div class="box"></div>
+      <div class="box"></div>
+      <div class="box"></div>
+      <div class="box"></div>
+      <div class="box"></div>
+      <div class="box"></div>
+      <div class="box"></div>
+      <div class="box"></div>
+      <div class="box"></div>
+      <div class="box"></div>
+      <div class="box"></div>
+      <div class="box"></div>
+      <div class="box"></div>
+      <div class="box"></div>
+      <div class="box"></div>
+      <div class="box"></div>
+      <div class="box"></div>
+      <div class="box"></div>
+      <div class="box"></div>
+      <div class="box"></div>
+      <div class="box"></div>
+      <div class="box"></div>
+      <div class="box"></div>
+      <div class="box"></div>
+      <div class="box"></div>
+      <div class="box"></div>
+      <div class="box"></div>
+      <div class="box"></div>
+      <div class="box"></div>
+      <div class="box"></div>
+      <div class="box"></div>
+      <div class="box"></div>
+      <div class="box"></div>
+      <div class="box"></div>
+      <div class="box"></div>
+      <div class="box"></div>
+    </section>
+    <a href="#" class="stop">Berhenti</a>
+  </div>
+    <!-- <button class="stop">Berhenti</button> -->
+    
+
+    <script>
+      let flipSound = document.querySelector('#clickEffect')
+      let matchSound = document.querySelector('#matchEffect')
+      flipSound.volume = 0.2
+      matchSound.volume = 0.4
+    </script>
+    <script src="app/ui.js"></script>
+    <script src="app/game.js"></script>
+  </body>
+</html>
